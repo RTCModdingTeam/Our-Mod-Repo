@@ -1,0 +1,660 @@
+2013-07-29 15:24:56 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-29 15:24:56 [SERVER] [INFO] Generating keypair
+2013-07-29 15:24:56 [SERVER] [INFO] Converting map!
+2013-07-29 15:24:56 [SERVER] [INFO] Scanning folders...
+2013-07-29 15:24:56 [SERVER] [INFO] Total conversion count is 0
+2013-07-29 15:24:56 [SERVER] [INFO] Preparing start region for level 0
+2013-07-29 15:24:57 [SERVER] [INFO] Preparing spawn area: 21%
+2013-07-29 15:24:58 [SERVER] [INFO] Preparing spawn area: 46%
+2013-07-29 15:24:59 [SERVER] [INFO] Preparing spawn area: 68%
+2013-07-29 15:25:00 [SERVER] [INFO] Preparing spawn area: 96%
+2013-07-29 15:25:00 [SERVER] [INFO] Player498[/127.0.0.1:0] logged in with entity id 103 at (220.5, 67.0, 146.5)
+2013-07-29 15:29:50 [SERVER] [INFO] Saving and pausing game...
+2013-07-29 15:29:50 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:29:50 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:29:50 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:29:51 [SERVER] [INFO] Stopping server
+2013-07-29 15:29:51 [SERVER] [INFO] Saving players
+2013-07-29 15:29:51 [SERVER] [INFO] Saving worlds
+2013-07-29 15:29:51 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:29:51 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:29:51 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:31:19 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-29 15:31:19 [SERVER] [INFO] Generating keypair
+2013-07-29 15:31:19 [SERVER] [INFO] Preparing start region for level 0
+2013-07-29 15:31:20 [SERVER] [INFO] Player149[/127.0.0.1:0] logged in with entity id 387 at (221.3091838324325, 68.0, 148.43182809304426)
+2013-07-29 15:32:02 [SERVER] [INFO] Saving and pausing game...
+2013-07-29 15:32:02 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:32:02 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:32:02 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:32:03 [SERVER] [INFO] Stopping server
+2013-07-29 15:32:03 [SERVER] [INFO] Saving players
+2013-07-29 15:32:03 [SERVER] [INFO] Saving worlds
+2013-07-29 15:32:03 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:32:03 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:32:03 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:47:02 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-29 15:47:02 [SERVER] [INFO] Generating keypair
+2013-07-29 15:47:02 [SERVER] [INFO] Preparing start region for level 0
+2013-07-29 15:47:03 [SERVER] [INFO] Player175[/127.0.0.1:0] logged in with entity id 355 at (221.30969119595818, 68.0, 148.00895313241693)
+2013-07-29 15:47:10 [SERVER] [INFO] Saving and pausing game...
+2013-07-29 15:47:10 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:47:10 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:47:10 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:47:12 [SERVER] [INFO] Player175 lost connection: disconnect.quitting
+2013-07-29 15:47:12 [SERVER] [INFO] Stopping singleplayer server as player logged out
+2013-07-29 15:47:12 [SERVER] [INFO] Stopping server
+2013-07-29 15:47:12 [SERVER] [INFO] Saving players
+2013-07-29 15:47:12 [SERVER] [INFO] Saving worlds
+2013-07-29 15:47:12 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:47:12 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:47:12 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:48:47 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-29 15:48:47 [SERVER] [INFO] Generating keypair
+2013-07-29 15:48:47 [SERVER] [INFO] Preparing start region for level 0
+2013-07-29 15:48:48 [SERVER] [INFO] Player382[/127.0.0.1:0] logged in with entity id 350 at (221.3996586816143, 68.0, 147.9304559633144)
+2013-07-29 15:49:12 [SERVER] [INFO] [Player382: Set own game mode to Survival Mode]
+2013-07-29 15:50:36 [SERVER] [INFO] [Player382: Set own game mode to Creative Mode]
+2013-07-29 15:51:03 [SERVER] [INFO] Saving and pausing game...
+2013-07-29 15:51:03 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:51:03 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:51:03 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:51:35 [SERVER] [INFO] [Player382: Set own game mode to Survival Mode]
+2013-07-29 15:53:26 [SERVER] [INFO] Saving and pausing game...
+2013-07-29 15:53:26 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:53:26 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:53:26 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:54:33 [SERVER] [INFO] Saving and pausing game...
+2013-07-29 15:54:33 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:54:33 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:54:33 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 15:54:34 [SERVER] [INFO] Stopping server
+2013-07-29 15:54:34 [SERVER] [INFO] Saving players
+2013-07-29 15:54:34 [SERVER] [INFO] Saving worlds
+2013-07-29 15:54:34 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 15:54:34 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 15:54:34 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 16:01:59 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-29 16:01:59 [SERVER] [INFO] Generating keypair
+2013-07-29 16:01:59 [SERVER] [INFO] Preparing start region for level 0
+2013-07-29 16:02:00 [SERVER] [INFO] Player713[/127.0.0.1:0] logged in with entity id 216 at (221.0630609624717, 67.0, 147.11988161923657)
+2013-07-29 16:03:16 [SERVER] [INFO] [Player713: Set own game mode to Creative Mode]
+2013-07-29 16:06:55 [SERVER] [INFO] Saving and pausing game...
+2013-07-29 16:06:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 16:06:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 16:06:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 16:06:56 [SERVER] [INFO] Stopping server
+2013-07-29 16:06:56 [SERVER] [INFO] Saving players
+2013-07-29 16:06:56 [SERVER] [INFO] Saving worlds
+2013-07-29 16:06:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 16:06:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 16:06:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 16:28:00 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-29 16:28:00 [SERVER] [INFO] Generating keypair
+2013-07-29 16:28:01 [SERVER] [INFO] Preparing start region for level 0
+2013-07-29 16:28:01 [SERVER] [INFO] Player285[/127.0.0.1:0] logged in with entity id 218 at (223.60564696135106, 68.0, 143.60931823283713)
+2013-07-29 16:32:56 [SERVER] [INFO] Saving and pausing game...
+2013-07-29 16:32:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 16:32:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 16:32:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-29 16:32:57 [SERVER] [INFO] Stopping server
+2013-07-29 16:32:57 [SERVER] [INFO] Saving players
+2013-07-29 16:32:57 [SERVER] [INFO] Saving worlds
+2013-07-29 16:32:57 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-29 16:32:57 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-29 16:32:57 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 10:18:08 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 10:18:08 [SERVER] [INFO] Generating keypair
+2013-07-30 10:18:08 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 10:18:09 [SERVER] [INFO] Player225[/127.0.0.1:0] logged in with entity id 191 at (218.78010638716773, 67.0, 144.54866471906027)
+2013-07-30 10:18:32 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 10:18:32 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 10:18:32 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 10:18:32 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 10:18:33 [SERVER] [INFO] Stopping server
+2013-07-30 10:18:33 [SERVER] [INFO] Saving players
+2013-07-30 10:18:33 [SERVER] [INFO] Saving worlds
+2013-07-30 10:18:33 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 10:18:33 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 10:18:33 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 10:20:09 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 10:20:09 [SERVER] [INFO] Generating keypair
+2013-07-30 10:20:09 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 10:20:10 [SERVER] [INFO] Player717[/127.0.0.1:0] logged in with entity id 189 at (219.24728138231575, 67.0, 143.72518338495996)
+2013-07-30 10:20:14 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 10:20:14 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 10:20:14 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 10:20:14 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 10:20:15 [SERVER] [INFO] Stopping server
+2013-07-30 10:20:15 [SERVER] [INFO] Saving players
+2013-07-30 10:20:15 [SERVER] [INFO] Saving worlds
+2013-07-30 10:20:15 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 10:20:15 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 10:20:15 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 10:49:27 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 10:49:27 [SERVER] [INFO] Generating keypair
+2013-07-30 10:49:28 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 10:49:28 [SERVER] [INFO] Player220[/127.0.0.1:0] logged in with entity id 189 at (219.15337876791526, 67.0, 145.72270078147568)
+2013-07-30 10:49:42 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 10:49:42 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 10:49:42 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 10:49:42 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 10:49:43 [SERVER] [INFO] Stopping server
+2013-07-30 10:49:43 [SERVER] [INFO] Saving players
+2013-07-30 10:49:43 [SERVER] [INFO] Saving worlds
+2013-07-30 10:49:43 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 10:49:43 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 10:49:43 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 12:49:55 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 12:49:55 [SERVER] [INFO] Generating keypair
+2013-07-30 12:49:55 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 12:49:56 [SERVER] [INFO] Player677[/127.0.0.1:0] logged in with entity id 191 at (219.15337876791526, 67.0, 145.72270078147568)
+2013-07-30 12:50:36 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 12:50:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 12:50:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 12:50:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 12:50:37 [SERVER] [INFO] Stopping server
+2013-07-30 12:50:37 [SERVER] [INFO] Saving players
+2013-07-30 12:50:37 [SERVER] [INFO] Saving worlds
+2013-07-30 12:50:37 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 12:50:37 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 12:50:37 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:19:57 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 14:19:57 [SERVER] [INFO] Generating keypair
+2013-07-30 14:19:57 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 14:19:58 [SERVER] [INFO] Player231[/127.0.0.1:0] logged in with entity id 185 at (219.15337876791526, 67.0, 145.72270078147568)
+2013-07-30 14:24:43 [SERVER] [INFO] [Player231: Set own game mode to Survival Mode]
+2013-07-30 14:25:27 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 14:25:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:25:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:25:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:25:27 [SERVER] [INFO] Stopping server
+2013-07-30 14:25:27 [SERVER] [INFO] Saving players
+2013-07-30 14:25:27 [SERVER] [INFO] Saving worlds
+2013-07-30 14:25:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:25:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:25:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:26:20 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 14:26:20 [SERVER] [INFO] Generating keypair
+2013-07-30 14:26:21 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 14:26:21 [SERVER] [INFO] Player914[/127.0.0.1:0] logged in with entity id 182 at (217.08144681018473, 66.0, 149.80885859224102)
+2013-07-30 14:29:52 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 14:29:52 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:29:52 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:29:52 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:29:53 [SERVER] [INFO] Stopping server
+2013-07-30 14:29:53 [SERVER] [INFO] Saving players
+2013-07-30 14:29:53 [SERVER] [INFO] Saving worlds
+2013-07-30 14:29:53 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:29:53 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:29:53 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:30:20 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 14:30:20 [SERVER] [INFO] Generating keypair
+2013-07-30 14:30:20 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 14:30:21 [SERVER] [INFO] Player693[/127.0.0.1:0] logged in with entity id 257 at (218.28213766385136, 68.0, 141.31329827993412)
+2013-07-30 14:31:35 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 14:31:35 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:31:35 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:31:35 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:31:36 [SERVER] [INFO] Stopping server
+2013-07-30 14:31:36 [SERVER] [INFO] Saving players
+2013-07-30 14:31:36 [SERVER] [INFO] Saving worlds
+2013-07-30 14:31:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:31:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:31:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:46:04 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 14:46:04 [SERVER] [INFO] Generating keypair
+2013-07-30 14:46:05 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 14:46:05 [SERVER] [INFO] Player539[/127.0.0.1:0] logged in with entity id 204 at (220.32641508629328, 67.0, 143.98930319022224)
+2013-07-30 14:46:14 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 14:46:14 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:46:14 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:46:14 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:46:14 [SERVER] [INFO] Stopping server
+2013-07-30 14:46:14 [SERVER] [INFO] Saving players
+2013-07-30 14:46:15 [SERVER] [INFO] Saving worlds
+2013-07-30 14:46:15 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:46:15 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:46:15 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:50:46 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 14:50:46 [SERVER] [INFO] Generating keypair
+2013-07-30 14:50:47 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 14:50:47 [SERVER] [INFO] Player257[/127.0.0.1:0] logged in with entity id 201 at (220.53003387741106, 67.0, 142.40295359416854)
+2013-07-30 14:53:01 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 14:53:01 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:53:01 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:53:01 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 14:53:01 [SERVER] [INFO] Stopping server
+2013-07-30 14:53:01 [SERVER] [INFO] Saving players
+2013-07-30 14:53:01 [SERVER] [INFO] Saving worlds
+2013-07-30 14:53:01 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 14:53:01 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 14:53:01 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 15:52:54 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 15:52:54 [SERVER] [INFO] Generating keypair
+2013-07-30 15:52:54 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 15:52:55 [SERVER] [INFO] Player897[/127.0.0.1:0] logged in with entity id 235 at (218.63004788136482, 67.0, 143.77946693078565)
+2013-07-30 15:53:12 [SERVER] [INFO] [Player897: Set own game mode to Creative Mode]
+2013-07-30 15:53:36 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 15:53:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 15:53:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 15:53:36 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 15:53:37 [SERVER] [INFO] Stopping server
+2013-07-30 15:53:37 [SERVER] [INFO] Saving players
+2013-07-30 15:53:37 [SERVER] [INFO] Saving worlds
+2013-07-30 15:53:37 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 15:53:37 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 15:53:37 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 15:57:55 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 15:57:55 [SERVER] [INFO] Generating keypair
+2013-07-30 15:57:55 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 15:57:56 [SERVER] [INFO] Player765[/127.0.0.1:0] logged in with entity id 219 at (218.63004788136482, 67.0, 143.77946693078565)
+2013-07-30 15:58:27 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 15:58:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 15:58:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 15:58:27 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 15:58:28 [SERVER] [INFO] Stopping server
+2013-07-30 15:58:28 [SERVER] [INFO] Saving players
+2013-07-30 15:58:28 [SERVER] [INFO] Saving worlds
+2013-07-30 15:58:28 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 15:58:28 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 15:58:28 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 16:01:41 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-30 16:01:41 [SERVER] [INFO] Generating keypair
+2013-07-30 16:01:41 [SERVER] [INFO] Preparing start region for level 0
+2013-07-30 16:01:42 [SERVER] [INFO] Player686[/127.0.0.1:0] logged in with entity id 215 at (218.75101915807065, 67.0, 144.51394017388844)
+2013-07-30 16:02:07 [SERVER] [INFO] Saving and pausing game...
+2013-07-30 16:02:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 16:02:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 16:02:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-30 16:02:07 [SERVER] [INFO] Stopping server
+2013-07-30 16:02:07 [SERVER] [INFO] Saving players
+2013-07-30 16:02:07 [SERVER] [INFO] Saving worlds
+2013-07-30 16:02:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-30 16:02:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-30 16:02:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-31 09:04:03 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 09:04:03 [SERVER] [INFO] Generating keypair
+2013-07-31 09:04:03 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 09:04:04 [SERVER] [INFO] Preparing spawn area: 58%
+2013-07-31 09:04:05 [SERVER] [INFO] Player31[/127.0.0.1:0] logged in with entity id 213 at (218.75101915807065, 67.0, 144.51394017388844)
+2013-07-31 09:08:08 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 09:08:08 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-31 09:08:08 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-31 09:08:08 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-31 09:08:09 [SERVER] [INFO] Stopping server
+2013-07-31 09:08:09 [SERVER] [INFO] Saving players
+2013-07-31 09:08:09 [SERVER] [INFO] Saving worlds
+2013-07-31 09:08:09 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-31 09:08:09 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-31 09:08:09 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-31 09:10:57 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 09:10:57 [SERVER] [INFO] Generating keypair
+2013-07-31 09:10:57 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 09:10:57 [SERVER] [INFO] Player982[/127.0.0.1:0] logged in with entity id 249 at (217.0164451401952, 67.0, 142.16044019333862)
+2013-07-31 09:15:44 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 09:15:44 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-31 09:15:44 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-31 09:15:44 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-31 09:15:45 [SERVER] [INFO] Stopping server
+2013-07-31 09:15:45 [SERVER] [INFO] Saving players
+2013-07-31 09:15:45 [SERVER] [INFO] Saving worlds
+2013-07-31 09:15:45 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-07-31 09:15:45 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-07-31 09:15:45 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-07-31 11:05:31 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 11:05:31 [SERVER] [INFO] Generating keypair
+2013-07-31 11:05:31 [SERVER] [INFO] Converting map!
+2013-07-31 11:05:31 [SERVER] [INFO] Scanning folders...
+2013-07-31 11:05:31 [SERVER] [INFO] Total conversion count is 0
+2013-07-31 11:05:31 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 11:05:32 [SERVER] [INFO] Preparing spawn area: 16%
+2013-07-31 11:05:33 [SERVER] [INFO] Preparing spawn area: 43%
+2013-07-31 11:05:34 [SERVER] [INFO] Preparing spawn area: 67%
+2013-07-31 11:05:35 [SERVER] [INFO] Preparing spawn area: 89%
+2013-07-31 11:05:36 [SERVER] [INFO] Player812[/127.0.0.1:0] logged in with entity id 176 at (43.5, 72.0, 251.5)
+2013-07-31 11:07:35 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 11:07:35 [SERVER] [INFO] Saving chunks for level 'Ore Test'/Overworld
+2013-07-31 11:07:35 [SERVER] [INFO] Saving chunks for level 'Ore Test'/Nether
+2013-07-31 11:07:35 [SERVER] [INFO] Saving chunks for level 'Ore Test'/The End
+2013-07-31 11:07:37 [SERVER] [INFO] Stopping server
+2013-07-31 11:07:37 [SERVER] [INFO] Saving players
+2013-07-31 11:07:37 [SERVER] [INFO] Saving worlds
+2013-07-31 11:07:37 [SERVER] [INFO] Saving chunks for level 'Ore Test'/Overworld
+2013-07-31 11:07:37 [SERVER] [INFO] Saving chunks for level 'Ore Test'/Nether
+2013-07-31 11:07:37 [SERVER] [INFO] Saving chunks for level 'Ore Test'/The End
+2013-07-31 11:09:30 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 11:09:30 [SERVER] [INFO] Generating keypair
+2013-07-31 11:09:30 [SERVER] [INFO] Converting map!
+2013-07-31 11:09:30 [SERVER] [INFO] Scanning folders...
+2013-07-31 11:09:30 [SERVER] [INFO] Total conversion count is 0
+2013-07-31 11:09:30 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 11:09:31 [SERVER] [INFO] Preparing spawn area: 15%
+2013-07-31 11:09:32 [SERVER] [INFO] Preparing spawn area: 41%
+2013-07-31 11:09:33 [SERVER] [INFO] Preparing spawn area: 65%
+2013-07-31 11:09:34 [SERVER] [INFO] Preparing spawn area: 88%
+2013-07-31 11:09:35 [SERVER] [INFO] Player637[/127.0.0.1:0] logged in with entity id 176 at (34.5, 73.0, 242.5)
+2013-07-31 11:11:31 [SERVER] [INFO] [Player637: Set own game mode to Survival Mode]
+2013-07-31 11:11:45 [SERVER] [INFO] [Player637: Set own game mode to Creative Mode]
+2013-07-31 11:12:04 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 11:12:04 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 11:12:04 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 11:12:04 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 11:12:04 [SERVER] [INFO] Stopping server
+2013-07-31 11:12:04 [SERVER] [INFO] Saving players
+2013-07-31 11:12:04 [SERVER] [INFO] Saving worlds
+2013-07-31 11:12:04 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 11:12:04 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 11:12:04 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:21:09 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 16:21:09 [SERVER] [INFO] Generating keypair
+2013-07-31 16:21:09 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 16:21:10 [SERVER] [INFO] Player643[/127.0.0.1:0] logged in with entity id 290 at (35.251977180066014, 73.0, 243.66519737942494)
+2013-07-31 16:21:39 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:21:39 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:21:39 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:21:39 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:21:40 [SERVER] [INFO] Stopping server
+2013-07-31 16:21:40 [SERVER] [INFO] Saving players
+2013-07-31 16:21:40 [SERVER] [INFO] Saving worlds
+2013-07-31 16:21:40 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:21:40 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:21:40 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:22:11 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 16:22:11 [SERVER] [INFO] Generating keypair
+2013-07-31 16:22:11 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 16:22:12 [SERVER] [INFO] Player621[/127.0.0.1:0] logged in with entity id 295 at (38.50594622589936, 74.30543845175121, 233.93726064364725)
+2013-07-31 16:22:52 [SERVER] [INFO] [Player621: Set the time to 12500]
+2013-07-31 16:23:18 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:23:18 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:23:18 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:23:18 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:23:19 [SERVER] [INFO] Stopping server
+2013-07-31 16:23:19 [SERVER] [INFO] Saving players
+2013-07-31 16:23:19 [SERVER] [INFO] Saving worlds
+2013-07-31 16:23:19 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:23:19 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:23:19 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:26:21 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 16:26:21 [SERVER] [INFO] Generating keypair
+2013-07-31 16:26:21 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 16:26:21 [SERVER] [INFO] Player452[/127.0.0.1:0] logged in with entity id 318 at (18.708847816193675, 70.0, 208.6055513414346)
+2013-07-31 16:26:36 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:26:36 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:26:36 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:26:36 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:26:37 [SERVER] [INFO] Stopping server
+2013-07-31 16:26:37 [SERVER] [INFO] Saving players
+2013-07-31 16:26:37 [SERVER] [INFO] Saving worlds
+2013-07-31 16:26:37 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:26:37 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:26:37 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:28:01 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 16:28:01 [SERVER] [INFO] Generating keypair
+2013-07-31 16:28:01 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 16:28:02 [SERVER] [INFO] Player965[/127.0.0.1:0] logged in with entity id 313 at (19.200830879346896, 70.0, 209.0098299792428)
+2013-07-31 16:33:15 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:33:15 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:33:15 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:33:15 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:33:38 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:33:38 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:33:38 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:33:38 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:33:52 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 16:33:52 [SERVER] [INFO] Generating keypair
+2013-07-31 16:33:52 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 16:33:53 [SERVER] [INFO] Player605[/127.0.0.1:0] logged in with entity id 233 at (20.973136268227854, 70.0, 209.217217812159)
+2013-07-31 16:34:03 [SERVER] [INFO] [Player605: Set the time to 0]
+2013-07-31 16:34:30 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:34:30 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:34:30 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:34:30 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:35:00 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 16:35:00 [SERVER] [INFO] Generating keypair
+2013-07-31 16:35:01 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 16:35:01 [SERVER] [INFO] Player900[/127.0.0.1:0] logged in with entity id 227 at (17.694431801099398, 78.73088313604704, 268.55284081783276)
+2013-07-31 16:35:15 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:35:15 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:35:15 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:35:15 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:35:24 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:35:24 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:35:24 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:35:24 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:35:30 [SERVER] [INFO] Stopping server
+2013-07-31 16:35:30 [SERVER] [INFO] Saving players
+2013-07-31 16:35:30 [SERVER] [INFO] Saving worlds
+2013-07-31 16:35:30 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:35:30 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:35:30 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 16:35:40 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-07-31 16:35:40 [SERVER] [INFO] Generating keypair
+2013-07-31 16:35:40 [SERVER] [INFO] Preparing start region for level 0
+2013-07-31 16:35:41 [SERVER] [INFO] Player403[/127.0.0.1:0] logged in with entity id 306 at (17.84903313936436, 66.0, 274.84592879333053)
+2013-07-31 16:36:00 [SERVER] [INFO] Saving and pausing game...
+2013-07-31 16:36:00 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Overworld
+2013-07-31 16:36:00 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/Nether
+2013-07-31 16:36:00 [SERVER] [INFO] Saving chunks for level 'Full Ore Test'/The End
+2013-07-31 22:39:31 [SERVER] [INFO] Stopping server
+2013-08-01 12:48:19 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-01 12:48:19 [SERVER] [INFO] Generating keypair
+2013-08-01 12:48:19 [SERVER] [INFO] Preparing start region for level 0
+2013-08-01 12:48:19 [SERVER] [INFO] Player28[/127.0.0.1:0] logged in with entity id 269 at (217.0164451401952, 67.0, 142.16044019333862)
+2013-08-01 12:48:55 [SERVER] [INFO] Saving and pausing game...
+2013-08-01 12:48:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 12:48:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 12:48:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 12:48:56 [SERVER] [INFO] Stopping server
+2013-08-01 12:48:56 [SERVER] [INFO] Saving players
+2013-08-01 12:48:56 [SERVER] [INFO] Saving worlds
+2013-08-01 12:48:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 12:48:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 12:48:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 12:50:19 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-01 12:50:19 [SERVER] [INFO] Generating keypair
+2013-08-01 12:50:20 [SERVER] [INFO] Preparing start region for level 0
+2013-08-01 12:50:20 [SERVER] [INFO] Player533[/127.0.0.1:0] logged in with entity id 338 at (221.8634753803968, 67.0, 153.8559584245088)
+2013-08-01 12:51:16 [SERVER] [INFO] [Player533: Set own game mode to Survival Mode]
+2013-08-01 12:51:28 [SERVER] [INFO] Saving and pausing game...
+2013-08-01 12:51:28 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 12:51:28 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 12:51:28 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 12:51:29 [SERVER] [INFO] Stopping server
+2013-08-01 12:51:29 [SERVER] [INFO] Saving players
+2013-08-01 12:51:29 [SERVER] [INFO] Saving worlds
+2013-08-01 12:51:29 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 12:51:29 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 12:51:29 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 12:53:22 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-01 12:53:22 [SERVER] [INFO] Generating keypair
+2013-08-01 12:53:22 [SERVER] [INFO] Preparing start region for level 0
+2013-08-01 12:53:23 [SERVER] [INFO] Player362[/127.0.0.1:0] logged in with entity id 283 at (221.06061766976487, 67.0, 153.25683692814252)
+2013-08-01 12:54:04 [SERVER] [INFO] Saving and pausing game...
+2013-08-01 12:54:04 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 12:54:04 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 12:54:04 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 12:54:05 [SERVER] [INFO] Stopping server
+2013-08-01 12:54:05 [SERVER] [INFO] Saving players
+2013-08-01 12:54:05 [SERVER] [INFO] Saving worlds
+2013-08-01 12:54:05 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 12:54:05 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 12:54:05 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 12:57:34 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-01 12:57:34 [SERVER] [INFO] Generating keypair
+2013-08-01 12:57:34 [SERVER] [INFO] Preparing start region for level 0
+2013-08-01 12:57:35 [SERVER] [INFO] Player742[/127.0.0.1:0] logged in with entity id 278 at (221.5013078393387, 67.0, 153.6153749115958)
+2013-08-01 12:58:17 [SERVER] [INFO] [Player742: Set own game mode to Creative Mode]
+2013-08-01 13:00:21 [SERVER] [INFO] Saving and pausing game...
+2013-08-01 13:00:21 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 13:00:21 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 13:00:21 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 13:00:59 [SERVER] [INFO] Saving and pausing game...
+2013-08-01 13:00:59 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 13:00:59 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 13:00:59 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 13:00:59 [SERVER] [INFO] Stopping server
+2013-08-01 13:00:59 [SERVER] [INFO] Saving players
+2013-08-01 13:00:59 [SERVER] [INFO] Saving worlds
+2013-08-01 13:00:59 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 13:00:59 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 13:00:59 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 14:41:31 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-01 14:41:31 [SERVER] [INFO] Generating keypair
+2013-08-01 14:41:31 [SERVER] [INFO] Preparing start region for level 0
+2013-08-01 14:41:32 [SERVER] [INFO] Player622[/127.0.0.1:0] logged in with entity id 323 at (222.3766642748957, 67.0, 143.30000001192093)
+2013-08-01 14:41:54 [SERVER] [INFO] Saving and pausing game...
+2013-08-01 14:41:54 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 14:41:54 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 14:41:54 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 14:41:55 [SERVER] [INFO] Stopping server
+2013-08-01 14:41:55 [SERVER] [INFO] Saving players
+2013-08-01 14:41:55 [SERVER] [INFO] Saving worlds
+2013-08-01 14:41:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 14:41:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 14:41:55 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 16:19:13 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-01 16:19:13 [SERVER] [INFO] Generating keypair
+2013-08-01 16:19:14 [SERVER] [INFO] Preparing start region for level 0
+2013-08-01 16:19:14 [SERVER] [INFO] Player476[/127.0.0.1:0] logged in with entity id 322 at (223.3285229906515, 68.0, 142.69020240393488)
+2013-08-01 16:19:21 [SERVER] [INFO] Stopping server
+2013-08-01 16:19:21 [SERVER] [INFO] Saving players
+2013-08-01 16:19:21 [SERVER] [INFO] Saving worlds
+2013-08-01 16:19:21 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 16:19:21 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 16:19:21 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 16:29:43 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-01 16:29:43 [SERVER] [INFO] Generating keypair
+2013-08-01 16:29:43 [SERVER] [INFO] Preparing start region for level 0
+2013-08-01 16:29:44 [SERVER] [INFO] Player179[/127.0.0.1:0] logged in with entity id 320 at (221.64145216146693, 67.0, 143.55435027329236)
+2013-08-01 16:31:56 [SERVER] [INFO] Saving and pausing game...
+2013-08-01 16:31:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 16:31:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 16:31:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-01 16:31:56 [SERVER] [INFO] Stopping server
+2013-08-01 16:31:56 [SERVER] [INFO] Saving players
+2013-08-01 16:31:56 [SERVER] [INFO] Saving worlds
+2013-08-01 16:31:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-01 16:31:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-01 16:31:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 12:01:35 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-02 12:01:35 [SERVER] [INFO] Generating keypair
+2013-08-02 12:01:35 [SERVER] [INFO] Preparing start region for level 0
+2013-08-02 12:01:37 [SERVER] [INFO] Player706[/127.0.0.1:0] logged in with entity id 262 at (221.0808818777372, 67.1875, 142.8298152539741)
+2013-08-02 12:03:47 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 12:03:47 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 12:03:47 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 12:03:47 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 12:03:48 [SERVER] [INFO] Stopping server
+2013-08-02 12:03:48 [SERVER] [INFO] Saving players
+2013-08-02 12:03:48 [SERVER] [INFO] Saving worlds
+2013-08-02 12:03:48 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 12:03:48 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 12:03:48 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 12:06:56 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-02 12:06:56 [SERVER] [INFO] Generating keypair
+2013-08-02 12:06:56 [SERVER] [INFO] Preparing start region for level 0
+2013-08-02 12:06:56 [SERVER] [INFO] Player887[/127.0.0.1:0] logged in with entity id 272 at (218.22627397486445, 68.0, 141.71138940300025)
+2013-08-02 12:08:56 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 12:08:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 12:08:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 12:08:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 12:08:57 [SERVER] [INFO] Stopping server
+2013-08-02 12:08:57 [SERVER] [INFO] Saving players
+2013-08-02 12:08:57 [SERVER] [INFO] Saving worlds
+2013-08-02 12:08:57 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 12:08:57 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 12:08:57 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:44:33 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-02 13:44:33 [SERVER] [INFO] Generating keypair
+2013-08-02 13:44:33 [SERVER] [INFO] Preparing start region for level 0
+2013-08-02 13:44:34 [SERVER] [INFO] Player687[/127.0.0.1:0] logged in with entity id 291 at (219.67052193059538, 67.0, 142.51686118923112)
+2013-08-02 13:44:43 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 13:44:43 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:44:43 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:44:43 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:44:44 [SERVER] [INFO] Stopping server
+2013-08-02 13:44:44 [SERVER] [INFO] Saving players
+2013-08-02 13:44:44 [SERVER] [INFO] Saving worlds
+2013-08-02 13:44:44 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:44:44 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:44:44 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:45:16 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-02 13:45:16 [SERVER] [INFO] Generating keypair
+2013-08-02 13:45:16 [SERVER] [INFO] Preparing start region for level 0
+2013-08-02 13:45:17 [SERVER] [INFO] Player13[/127.0.0.1:0] logged in with entity id 291 at (218.6536803575368, 68.0, 141.70539193248462)
+2013-08-02 13:47:06 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 13:47:06 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:47:06 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:47:06 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:47:07 [SERVER] [INFO] Stopping server
+2013-08-02 13:47:07 [SERVER] [INFO] Saving players
+2013-08-02 13:47:07 [SERVER] [INFO] Saving worlds
+2013-08-02 13:47:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:47:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:47:07 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:48:17 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-02 13:48:17 [SERVER] [INFO] Generating keypair
+2013-08-02 13:48:17 [SERVER] [INFO] Preparing start region for level 0
+2013-08-02 13:48:18 [SERVER] [INFO] Player217[/127.0.0.1:0] logged in with entity id 324 at (218.69960065896504, 68.0, 141.4978071660251)
+2013-08-02 13:48:45 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 13:48:45 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:48:45 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:48:45 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:48:47 [SERVER] [INFO] Stopping server
+2013-08-02 13:48:47 [SERVER] [INFO] Saving players
+2013-08-02 13:48:47 [SERVER] [INFO] Saving worlds
+2013-08-02 13:48:47 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:48:47 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:48:47 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:52:37 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-02 13:52:37 [SERVER] [INFO] Generating keypair
+2013-08-02 13:52:37 [SERVER] [INFO] Preparing start region for level 0
+2013-08-02 13:52:38 [SERVER] [INFO] Player940[/127.0.0.1:0] logged in with entity id 331 at (218.69960065896504, 68.0, 141.4978071660251)
+2013-08-02 13:53:06 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 13:53:06 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:53:06 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:53:06 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:53:07 [SERVER] [INFO] Stopping server
+2013-08-02 13:53:07 [SERVER] [INFO] Saving players
+2013-08-02 13:53:08 [SERVER] [INFO] Saving worlds
+2013-08-02 13:53:08 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:53:08 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:53:08 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:55:46 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-02 13:55:46 [SERVER] [INFO] Generating keypair
+2013-08-02 13:55:46 [SERVER] [INFO] Preparing start region for level 0
+2013-08-02 13:55:47 [SERVER] [INFO] Player44[/127.0.0.1:0] logged in with entity id 329 at (218.69960065896504, 68.0, 141.4978071660251)
+2013-08-02 13:57:38 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 13:57:38 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:57:38 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:57:38 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 13:57:39 [SERVER] [INFO] Stopping server
+2013-08-02 13:57:39 [SERVER] [INFO] Saving players
+2013-08-02 13:57:39 [SERVER] [INFO] Saving worlds
+2013-08-02 13:57:39 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 13:57:39 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 13:57:39 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 19:06:36 [SERVER] [INFO] Starting integrated minecraft server version 1.5.2
+2013-08-02 19:06:36 [SERVER] [INFO] Generating keypair
+2013-08-02 19:06:37 [SERVER] [INFO] Preparing start region for level 0
+2013-08-02 19:06:38 [SERVER] [INFO] Preparing spawn area: 53%
+2013-08-02 19:06:39 [SERVER] [INFO] Player196[/127.0.0.1:0] logged in with entity id 270 at (218.57724162588906, 68.0, 141.44693301551354)
+2013-08-02 19:06:56 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 19:06:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 19:06:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 19:06:56 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 19:08:05 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 19:08:05 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 19:08:05 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 19:08:05 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 19:09:39 [SERVER] [INFO] Saving and pausing game...
+2013-08-02 19:09:39 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 19:09:39 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 19:09:39 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End
+2013-08-02 19:09:40 [SERVER] [INFO] Stopping server
+2013-08-02 19:09:40 [SERVER] [INFO] Saving players
+2013-08-02 19:09:40 [SERVER] [INFO] Saving worlds
+2013-08-02 19:09:40 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Overworld
+2013-08-02 19:09:40 [SERVER] [INFO] Saving chunks for level 'Mod Test'/Nether
+2013-08-02 19:09:40 [SERVER] [INFO] Saving chunks for level 'Mod Test'/The End

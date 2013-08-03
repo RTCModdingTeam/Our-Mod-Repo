@@ -1,0 +1,38 @@
+---- Minecraft Crash Report ----
+// I blame Dinnerbone.
+
+Time: 7/30/13 2:44 PM
+Description: ModLoader has failed to initialize.
+
+java.lang.StringIndexOutOfBoundsException: String index out of range: 8
+	at java.lang.String.charAt(Unknown Source)
+	at net.minecraft.src.CraftingManager.addRecipe(CraftingManager.java:204)
+	at net.minecraft.src.ModLoader.addRecipe(ModLoader.java:443)
+	at net.minecraft.src.mod_Test.load(mod_Test.java:53)
+	at net.minecraft.src.ModLoader.init(ModLoader.java:787)
+	at net.minecraft.src.ModLoader.addAllRenderers(ModLoader.java:180)
+	at net.minecraft.src.RenderManager.<init>(RenderManager.java:96)
+	at net.minecraft.src.RenderManager.<clinit>(RenderManager.java:14)
+	at net.minecraft.client.Minecraft.startGame(Minecraft.java:417)
+	at net.minecraft.src.MinecraftAppletImpl.startGame(MinecraftAppletImpl.java:41)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:726)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.5.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.7.0_13, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 958515752 bytes (914 MB) / 1038876672 bytes (990 MB) up to 1038876672 bytes (990 MB)
+	JVM Flags: 3 total; -Xincgc -Xmx1024M -Xms1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Suspicious classes: Start[net.minecraft.src.IPlayerUsage, ILogAgent, MinecraftFakeLauncher, ...]
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	ModLoader: Mods loaded: 2
+ModLoader 1.5.2
+mod_Test 1.0

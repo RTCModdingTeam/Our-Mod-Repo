@@ -1,0 +1,10 @@
+14:57:43 - !! Modified jar detected. Unpredictable results !!
+14:59:33 - 'runtime\bin\applydiff.exe -p1 -u -i ..\..\temp\temp.patch -d src\minecraft' failed : 1
+14:59:33 - 
+14:59:33 - == ERRORS FOUND ==
+14:59:33 - 
+14:59:33 - 1 out of 1 hunk ignored -- saving rejects to file 'net\minecraft\src\IntegratedSer#'
+14:59:33 - 2 out of 2 hunks FAILED -- saving rejects to file 'net\minecraft\src\RenderBlocks.#'
+14:59:33 - ==================
+14:59:33 - 
+14:59:49 - !! Missing server jar file. Aborting !!

@@ -1,0 +1,1143 @@
+2013-07-29 15:24:29 [CLIENT] [INFO] Setting user: Player498
+2013-07-29 15:24:29 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-29 15:24:31 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/myBlock.png, but that file does not exist. Ignoring.
+2013-07-29 15:24:31 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-29 15:24:31 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-29 15:24:31 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-29 15:24:31 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-29 15:24:31 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-29 15:24:31 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-29 15:24:31 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-29 15:24:32 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-29 15:24:32 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-29 15:29:52 [CLIENT] [INFO] Stopping!
+2013-07-29 15:31:14 [CLIENT] [INFO] Setting user: Player149
+2013-07-29 15:31:14 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-29 15:31:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/myBlock.png, but that file does not exist. Ignoring.
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-29 15:31:16 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-29 15:32:09 [CLIENT] [INFO] Stopping!
+2013-07-29 15:46:57 [CLIENT] [INFO] Setting user: Player175
+2013-07-29 15:46:57 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-29 15:46:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/myBlock.png, but that file does not exist. Ignoring.
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-29 15:46:59 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-29 15:47:14 [CLIENT] [INFO] Stopping!
+2013-07-29 15:48:42 [CLIENT] [INFO] Setting user: Player382
+2013-07-29 15:48:42 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-29 15:48:44 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/myBlock.png, but that file does not exist. Ignoring.
+2013-07-29 15:48:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-29 15:48:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-29 15:48:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-29 15:48:44 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-29 15:48:44 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-29 15:48:44 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-29 15:48:44 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-29 15:48:45 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-29 15:48:45 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-29 15:49:12 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-07-29 15:50:36 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-07-29 15:51:35 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-07-29 15:54:35 [CLIENT] [INFO] Stopping!
+2013-07-29 16:01:53 [CLIENT] [INFO] Setting user: Player713
+2013-07-29 16:01:54 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-29 16:01:55 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/myBlock.png, but that file does not exist. Ignoring.
+2013-07-29 16:01:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-29 16:01:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-29 16:01:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-29 16:01:55 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-29 16:01:55 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-29 16:01:55 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-29 16:01:55 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-29 16:01:56 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-29 16:01:56 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-29 16:03:16 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-07-29 16:06:57 [CLIENT] [INFO] Stopping!
+2013-07-29 16:27:54 [CLIENT] [INFO] Setting user: Player285
+2013-07-29 16:27:54 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-29 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-29 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-29 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-29 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-29 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-29 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-29 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-29 16:27:57 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-29 16:27:57 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-29 16:51:18 [CLIENT] [INFO] Stopping!
+2013-07-30 10:18:02 [CLIENT] [INFO] Setting user: Player225
+2013-07-30 10:18:02 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 10:18:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/oneHitKill.png, but that file does not exist. Ignoring.
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 10:18:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 10:18:33 [CLIENT] [INFO] Stopping!
+2013-07-30 10:20:04 [CLIENT] [INFO] Setting user: Player717
+2013-07-30 10:20:04 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 10:20:06 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/oneHitKill.png, but that file does not exist. Ignoring.
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 10:20:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 10:20:15 [CLIENT] [INFO] Stopping!
+2013-07-30 10:49:16 [CLIENT] [INFO] Setting user: Player220
+2013-07-30 10:49:16 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 10:49:19 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 10:49:44 [CLIENT] [INFO] Stopping!
+2013-07-30 12:49:30 [CLIENT] [INFO] Setting user: Player677
+2013-07-30 12:49:30 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 12:49:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 12:49:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 12:49:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 12:49:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 12:49:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 12:49:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 12:49:33 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 12:50:38 [CLIENT] [INFO] Stopping!
+2013-07-30 14:18:16 [CLIENT] [INFO] Setting user: Player49
+2013-07-30 14:18:16 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 14:18:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:18:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 14:18:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 14:18:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 14:18:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 14:18:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 14:18:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 14:18:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 14:18:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 14:18:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:18:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:18:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:18:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:18:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:18:29 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 14:18:29 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 14:18:29 [CLIENT] [INFO] Stopping!
+2013-07-30 14:19:48 [CLIENT] [INFO] Setting user: Player231
+2013-07-30 14:19:48 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 14:19:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:50 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 14:19:50 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 14:19:50 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 14:19:50 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 14:19:50 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 14:19:50 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 14:19:50 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 14:19:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:19:51 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 14:19:51 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 14:24:43 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-07-30 14:25:28 [CLIENT] [INFO] Stopping!
+2013-07-30 14:26:03 [CLIENT] [INFO] Setting user: Player914
+2013-07-30 14:26:03 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 14:26:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 14:26:05 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 14:29:54 [CLIENT] [INFO] Stopping!
+2013-07-30 14:30:09 [CLIENT] [INFO] Setting user: Player693
+2013-07-30 14:30:09 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 14:30:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 14:30:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 14:31:36 [CLIENT] [INFO] Stopping!
+2013-07-30 14:44:14 [CLIENT] [INFO] Setting user: Player517
+2013-07-30 14:44:14 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 14:45:20 [CLIENT] [INFO] Setting user: Player786
+2013-07-30 14:45:20 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 14:45:58 [CLIENT] [INFO] Setting user: Player539
+2013-07-30 14:45:58 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 14:45:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:45:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 14:46:00 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 14:46:16 [CLIENT] [INFO] Stopping!
+2013-07-30 14:50:31 [CLIENT] [INFO] Setting user: Player257
+2013-07-30 14:50:31 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 14:50:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 14:50:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 14:50:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 14:50:33 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 14:50:33 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 14:50:33 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 14:50:33 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 14:50:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:33 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:34 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 14:50:34 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 14:50:34 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 14:53:03 [CLIENT] [INFO] Stopping!
+2013-07-30 15:52:13 [CLIENT] [INFO] Setting user: Player897
+2013-07-30 15:52:13 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 15:52:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 15:52:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 15:53:12 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-07-30 15:53:38 [CLIENT] [INFO] Stopping!
+2013-07-30 15:57:50 [CLIENT] [INFO] Setting user: Player765
+2013-07-30 15:57:50 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 15:57:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:51 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 15:57:52 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 15:58:29 [CLIENT] [INFO] Stopping!
+2013-07-30 16:01:36 [CLIENT] [INFO] Setting user: Player686
+2013-07-30 16:01:36 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-30 16:01:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:37 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-30 16:01:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-30 16:02:08 [CLIENT] [INFO] Stopping!
+2013-07-31 09:03:57 [CLIENT] [INFO] Setting user: Player31
+2013-07-31 09:03:57 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 09:03:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 09:03:59 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 09:08:09 [CLIENT] [INFO] Stopping!
+2013-07-31 09:10:48 [CLIENT] [INFO] Setting user: Player982
+2013-07-31 09:10:48 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 09:10:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 09:10:50 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 09:15:46 [CLIENT] [INFO] Stopping!
+2013-07-31 11:05:09 [CLIENT] [INFO] Setting user: Player812
+2013-07-31 11:05:09 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 11:05:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 11:05:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 11:05:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 11:05:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 11:05:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 11:05:10 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 11:05:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 11:05:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 11:05:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 11:07:40 [CLIENT] [INFO] Stopping!
+2013-07-31 11:08:55 [CLIENT] [INFO] Setting user: Player637
+2013-07-31 11:08:55 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 11:08:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:57 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 11:08:57 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 11:08:57 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 11:08:57 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 11:08:57 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 11:08:57 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 11:08:57 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 11:08:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 11:08:58 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 11:08:58 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 11:11:31 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-07-31 11:11:45 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-07-31 11:12:05 [CLIENT] [INFO] Stopping!
+2013-07-31 16:19:58 [CLIENT] [INFO] Setting user: Player646
+2013-07-31 16:19:58 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 16:20:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 16:20:10 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 16:20:10 [CLIENT] [INFO] Stopping!
+2013-07-31 16:20:58 [CLIENT] [INFO] Setting user: Player643
+2013-07-31 16:20:59 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 16:21:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:00 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 16:21:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 16:21:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 16:21:00 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 16:21:00 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 16:21:00 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 16:21:00 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:21:01 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 16:21:01 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 16:21:41 [CLIENT] [INFO] Stopping!
+2013-07-31 16:22:01 [CLIENT] [INFO] Setting user: Player621
+2013-07-31 16:22:01 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 16:22:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:03 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 16:22:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 16:22:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 16:22:03 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 16:22:03 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 16:22:03 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 16:22:03 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:22:04 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 16:22:04 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 16:22:52 [CLIENT] [INFO] [CHAT] Set the time to 12500
+2013-07-31 16:23:22 [CLIENT] [INFO] Stopping!
+2013-07-31 16:25:21 [CLIENT] [INFO] Setting user: Player317
+2013-07-31 16:25:21 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 16:25:22 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 16:25:23 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 16:25:23 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 16:25:23 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 16:25:23 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 16:25:23 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 16:25:23 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:23 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:25:24 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 16:25:24 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 16:26:14 [CLIENT] [INFO] Setting user: Player452
+2013-07-31 16:26:14 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 16:26:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 16:26:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 16:26:16 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 16:26:16 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 16:26:16 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 16:26:16 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:16 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:26:17 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 16:26:17 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 16:26:38 [CLIENT] [INFO] Stopping!
+2013-07-31 16:27:54 [CLIENT] [INFO] Setting user: Player965
+2013-07-31 16:27:54 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 16:27:55 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:55 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:55 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:55 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 16:27:56 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 16:33:46 [CLIENT] [INFO] Setting user: Player605
+2013-07-31 16:33:46 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 16:33:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 16:33:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 16:33:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 16:33:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 16:33:48 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 16:33:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:48 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:33:49 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 16:33:49 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 16:34:03 [CLIENT] [INFO] [CHAT] Set the time to 0
+2013-07-31 16:34:56 [CLIENT] [INFO] Setting user: Player900
+2013-07-31 16:34:56 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-07-31 16:34:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:57 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:57 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-07-31 16:34:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-07-31 16:34:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-07-31 16:34:58 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-07-31 16:34:58 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-07-31 16:34:58 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-07-31 16:34:58 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-07-31 16:34:58 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-07-31 16:34:58 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-07-31 16:35:31 [CLIENT] [INFO] Stopping!
+2013-08-01 12:48:12 [CLIENT] [INFO] Setting user: Player28
+2013-08-01 12:48:12 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/trapdoorIron.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-01 12:48:14 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-01 12:48:14 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-01 12:48:14 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-01 12:48:14 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-01 12:48:14 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-01 12:48:14 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:14 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:15 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-08-01 12:48:15 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-01 12:48:15 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-01 12:48:57 [CLIENT] [INFO] Stopping!
+2013-08-01 12:50:07 [CLIENT] [INFO] Setting user: Player533
+2013-08-01 12:50:07 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-01 12:50:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/trapdoorIron.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:08 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-01 12:50:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-01 12:50:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-01 12:50:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-01 12:50:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-01 12:50:08 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-01 12:50:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-08-01 12:50:09 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-01 12:50:09 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-01 12:51:16 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-08-01 12:51:30 [CLIENT] [INFO] Stopping!
+2013-08-01 12:52:44 [CLIENT] [INFO] Setting user: Player362
+2013-08-01 12:52:44 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-01 12:52:45 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/trapdoorIron.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:45 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:45 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:45 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:45 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:45 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-01 12:52:45 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-01 12:52:45 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-01 12:52:45 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-01 12:52:45 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-01 12:52:45 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-01 12:52:45 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-08-01 12:52:46 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-01 12:52:46 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-01 12:54:06 [CLIENT] [INFO] Stopping!
+2013-08-01 12:57:26 [CLIENT] [INFO] Setting user: Player742
+2013-08-01 12:57:26 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-01 12:57:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:29 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:29 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-01 12:57:29 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-01 12:57:29 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-01 12:57:29 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-01 12:57:29 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-01 12:57:29 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-01 12:57:29 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-08-01 12:57:30 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-01 12:57:30 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-01 12:58:17 [CLIENT] [INFO] [CHAT] Your game mode has been updated
+2013-08-01 13:01:01 [CLIENT] [INFO] Stopping!
+2013-08-01 14:41:26 [CLIENT] [INFO] Setting user: Player622
+2013-08-01 14:41:26 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-01 14:41:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotOre.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemBlock.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/gemOre.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:27 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/blocks/ingotBlock.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemGem.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSword.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotAxe.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemBoots.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotChestplate.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSword.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotSpade.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHelm.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemLeggings.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotHoe.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemSpade.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotIngot.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemAxe.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotBoots.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHoe.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemHelm.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/ingotPick.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/gemPick.png, but that file does not exist. Ignoring.
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-01 14:41:28 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-01 16:18:37 [CLIENT] [INFO] Setting user: Player363
+2013-08-01 16:18:37 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-01 16:18:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-01 16:18:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-01 16:18:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-01 16:18:48 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-01 16:18:48 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-01 16:18:48 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-01 16:18:48 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-01 16:18:49 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-01 16:18:49 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-01 16:18:49 [CLIENT] [INFO] Stopping!
+2013-08-01 16:19:04 [CLIENT] [INFO] Setting user: Player476
+2013-08-01 16:19:04 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-01 16:19:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-01 16:19:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-01 16:19:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-01 16:19:05 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-01 16:19:05 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-01 16:19:05 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-01 16:19:05 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-01 16:19:06 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-01 16:19:06 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-01 16:19:31 [CLIENT] [INFO] Stopping!
+2013-08-01 16:21:59 [CLIENT] [INFO] Setting user: Player179
+2013-08-01 16:21:59 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-01 16:22:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-01 16:22:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-01 16:22:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-01 16:22:01 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-01 16:22:01 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-01 16:22:01 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-01 16:22:01 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-01 16:22:02 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-01 16:22:02 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-01 16:31:57 [CLIENT] [INFO] Stopping!
+2013-08-02 11:03:08 [CLIENT] [INFO] Setting user: Player892
+2013-08-02 11:03:08 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 11:03:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 11:03:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 11:03:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 11:03:10 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 11:03:10 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 11:03:10 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 11:03:10 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 11:03:10 [CLIENT] [WARNING] TextureManager.createTexture called for file textures/items/restructurizer.png, but that file does not exist. Ignoring.
+2013-08-02 11:03:11 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 11:03:11 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 11:03:26 [CLIENT] [INFO] Connecting to 192.168.50.129, 50678
+2013-08-02 11:03:27 [CLIENT] [WARNING] Skipping Entity with id 71
+2013-08-02 11:03:37 [CLIENT] [INFO] Stopping!
+2013-08-02 12:01:25 [CLIENT] [INFO] Setting user: Player706
+2013-08-02 12:01:25 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 12:01:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 12:01:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 12:01:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 12:01:27 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 12:01:27 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 12:01:27 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 12:01:27 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 12:01:28 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 12:01:28 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 12:03:49 [CLIENT] [INFO] Stopping!
+2013-08-02 12:06:49 [CLIENT] [INFO] Setting user: Player887
+2013-08-02 12:06:49 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 12:06:51 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 12:08:58 [CLIENT] [INFO] Stopping!
+2013-08-02 13:43:49 [CLIENT] [INFO] Setting user: Player687
+2013-08-02 13:43:49 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 13:43:51 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 13:44:46 [CLIENT] [INFO] Stopping!
+2013-08-02 13:44:52 [CLIENT] [INFO] Setting user: Player13
+2013-08-02 13:44:52 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 13:44:54 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 13:47:08 [CLIENT] [INFO] Stopping!
+2013-08-02 13:47:47 [CLIENT] [INFO] Setting user: Player351
+2013-08-02 13:47:47 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 13:47:49 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 13:47:49 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 13:47:49 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 13:47:49 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 13:47:49 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 13:47:49 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 13:47:49 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 13:47:50 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 13:47:50 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 13:47:52 [CLIENT] [INFO] Stopping!
+2013-08-02 13:48:06 [CLIENT] [INFO] Setting user: Player217
+2013-08-02 13:48:06 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 13:48:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 13:48:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 13:48:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 13:48:08 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 13:48:08 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 13:48:08 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 13:48:08 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 13:48:09 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 13:48:09 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 13:48:48 [CLIENT] [INFO] Stopping!
+2013-08-02 13:52:32 [CLIENT] [INFO] Setting user: Player940
+2013-08-02 13:52:32 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 13:52:34 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 13:53:08 [CLIENT] [INFO] Stopping!
+2013-08-02 13:55:35 [CLIENT] [INFO] Setting user: Player44
+2013-08-02 13:55:35 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 13:55:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 13:55:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 13:55:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 13:55:37 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 13:55:37 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 13:55:37 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 13:55:37 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 13:55:38 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 13:55:38 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 13:57:40 [CLIENT] [INFO] Stopping!
+2013-08-02 19:05:35 [CLIENT] [INFO] Setting user: Player196
+2013-08-02 19:05:35 [CLIENT] [INFO] LWJGL Version: 2.4.2
+2013-08-02 19:05:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava_flow.txt
+2013-08-02 19:05:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water_flow.txt
+2013-08-02 19:05:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_0.txt
+2013-08-02 19:05:39 [CLIENT] [INFO] Found animation info for: textures/blocks/fire_1.txt
+2013-08-02 19:05:39 [CLIENT] [INFO] Found animation info for: textures/blocks/lava.txt
+2013-08-02 19:05:39 [CLIENT] [INFO] Found animation info for: textures/blocks/portal.txt
+2013-08-02 19:05:39 [CLIENT] [INFO] Found animation info for: textures/blocks/water.txt
+2013-08-02 19:05:40 [CLIENT] [INFO] Found animation info for: textures/items/clock.txt
+2013-08-02 19:05:40 [CLIENT] [INFO] Found animation info for: textures/items/compass.txt
+2013-08-02 19:09:41 [CLIENT] [INFO] Stopping!

@@ -1,0 +1,11 @@
+package net.minecraft.src;
+
+public class CreatureCreature extends EntityAmbientCreature {
+
+	@Override
+	public int getMaxHealth() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

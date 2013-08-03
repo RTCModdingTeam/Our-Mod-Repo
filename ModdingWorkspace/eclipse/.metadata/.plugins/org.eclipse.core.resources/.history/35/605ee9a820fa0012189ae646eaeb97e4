@@ -1,0 +1,15 @@
+package net.minecraft.src;
+
+public class CreatureCreature extends EntityMob {
+
+	public CreatureCreature(World par1World) {
+		super(par1World);
+		this.texture = "/mob/creature.png";
+	}
+
+	@Override
+	public int getMaxHealth() {
+		return 2;
+	}
+
+}

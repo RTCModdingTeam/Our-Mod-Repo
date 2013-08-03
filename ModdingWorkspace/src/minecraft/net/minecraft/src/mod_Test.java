@@ -1,0 +1,39 @@
+package net.minecraft.src;
+
+public class mod_Test extends BaseMod {
+	
+	public static Block trapdoorIron = new BlockIronTrapDoor(180, Material.iron).setCreativeTab(CreativeTabs.tabRedstone).setUnlocalizedName("trapdoorIron");
+	
+	public static Item destructurizer = new Item(181).setUnlocalizedName("destructurizer").setCreativeTab(CreativeTabs.tabTools);
+	public static Item restructurizer = new Item(182).setUnlocalizedName("restructurizer").setCreativeTab(CreativeTabs.tabTools);
+	
+	public static Item dirtEssence = new Item(183).setUnlocalizedName("essence0").setCreativeTab(CreativeTabs.tabMisc);
+	public static Item stoneEssence = new Item(184).setUnlocalizedName("essence1").setCreativeTab(CreativeTabs.tabMisc);
+	
+	@Override
+	public String getVersion() {
+		return("1.0");
+	}
+
+	@Override
+	public void load() {
+		ModLoader.registerBlock(trapdoorIron);
+		ModLoader.addName(trapdoorIron, "Iron Trapdoor");
+		ModLoader.addRecipe(new ItemStack(trapdoorIron, 1), new Object[]{"   ", "iii", "iii", 'i', Item.ingotIron});
+	
+		ModLoader.addName(destructurizer, "Canescent Destructurizer");
+		ModLoader.addName(restructurizer, "Canescent Restructurizer");
+		ModLoader.addName(dirtEssence, "Limin Signature Of Dirt");
+		ModLoader.addName(stoneEssence, "Limin Signature Of Stone");
+		
+		ModLoader.addShapelessRecipe(new ItemStack(destructurizer, 64), new ItemStack(Item.enderPearl, 1), new ItemStack(Item.lightStoneDust, 1), new ItemStack(Item.lightStoneDust, 1), new ItemStack(Item.lightStoneDust, 1), new ItemStack(Item.lightStoneDust, 1), new ItemStack(Item.lightStoneDust, 1), new ItemStack(Item.lightStoneDust, 1), new ItemStack(Item.lightStoneDust, 1), new ItemStack(Item.lightStoneDust, 1));
+		ModLoader.addShapelessRecipe(new ItemStack(restructurizer, 64), new ItemStack(Item.enderPearl, 1), new ItemStack(Item.redstone, 1), new ItemStack(Item.redstone, 1), new ItemStack(Item.redstone, 1), new ItemStack(Item.redstone, 1), new ItemStack(Item.redstone, 1), new ItemStack(Item.redstone, 1), new ItemStack(Item.redstone, 1), new ItemStack(Item.redstone, 1));
+		
+		ModLoader.addShapelessRecipe(new ItemStack(dirtEssence, 1), new ItemStack(Block.dirt, 1), new ItemStack(destructurizer, 1));
+		ModLoader.addShapelessRecipe(new ItemStack(Block.dirt, 1), new ItemStack(dirtEssence, 1), new ItemStack(restructurizer, 1));
+		ModLoader.addShapelessRecipe(new ItemStack(stoneEssence, 1), new ItemStack(Block.stone, 1), new ItemStack(destructurizer, 1));
+		ModLoader.addShapelessRecipe(new ItemStack(Block.stone, 1), new ItemStack(stoneEssence, 1), new ItemStack(restructurizer, 1));
+		
+		ModLoader.addShapelessRecipe(new ItemStack(stoneEssence, 1), new ItemStack(Block.obsidian, 1), new ItemStack(dirtEssence, 1));
+	}
+}

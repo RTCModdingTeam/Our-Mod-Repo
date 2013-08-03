@@ -1,0 +1,17 @@
+package net.minecraft.src;
+
+public class mod_Test extends BaseMod {
+	
+	public static Block x = new Block(180, Material.rock).setCreativeTab(CreativeTabs.tabBlock).setUnlocalizedName("myBlock");
+
+	@Override
+	public String getVersion() {
+		return("1.0");
+	}
+
+	@Override
+	public void load() {
+		ModLoader.registerBlock(x);
+	}
+
+}

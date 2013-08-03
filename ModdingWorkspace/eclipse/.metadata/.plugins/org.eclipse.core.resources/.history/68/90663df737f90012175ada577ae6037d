@@ -1,0 +1,20 @@
+package net.minecraft.src;
+
+public class mod_Test extends BaseMod {
+	
+	public static Block x = new BlockTest(180, Material.rock).setCreativeTab(CreativeTabs.tabBlock).setUnlocalizedName("myBlock");
+	public static Item oneHitKill = new ItemSword(181, EnumToolMaterial.EMERALD).setUnlocalizedName("oneHitKill").setCreativeTab(CreativeTabs.tabCombat);
+	
+	@Override
+	public String getVersion() {
+		return("1.0");
+	}
+
+	@Override
+	public void load() {
+		ModLoader.registerBlock(x);
+		ModLoader.addName(x, "Test Block");
+		ModLoader.addName(oneHitKill, "Instant Kill");
+	}
+
+}

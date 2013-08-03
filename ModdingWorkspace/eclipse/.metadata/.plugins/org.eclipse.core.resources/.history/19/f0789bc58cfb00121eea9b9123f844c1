@@ -1,0 +1,24 @@
+package net.minecraft.src;
+
+public class mod_Test extends BaseMod {
+	
+	public static Block trapdoorIron = new BlockIronTrapDoor(180, Material.iron).setCreativeTab(CreativeTabs.tabRedstone).setUnlocalizedName("trapdoorIron");
+	
+	public static Item destructurizer = new Item(181).setUnlocalizedName("destructurizer").setCreativeTab(CreativeTabs.tabTools);
+	public static Item restructurizer = new Item(181).setUnlocalizedName("restructurizer").setCreativeTab(CreativeTabs.tabTools);
+	
+	@Override
+	public String getVersion() {
+		return("1.0");
+	}
+
+	@Override
+	public void load() {
+		ModLoader.registerBlock(trapdoorIron);
+		ModLoader.addName(trapdoorIron, "Iron Trapdoor");
+		ModLoader.addRecipe(new ItemStack(trapdoorIron, 1), new Object[]{"   ", "iii", "iii", 'i', Item.ingotIron});
+	
+		
+	
+	}
+}

@@ -1,0 +1,65 @@
+package net.minecraft.src;
+
+public class mod_Test extends BaseMod {
+	
+	public static Block gemOre = new NewOre(180, Material.rock).setCreativeTab(CreativeTabs.tabBlock).setUnlocalizedName("gemOre");
+	public static Item gemGem = new Item(181).setUnlocalizedName("gemGem").setCreativeTab(CreativeTabs.tabMaterials);
+	public static Item gemSword = new ItemSword(182, EnumToolMaterial.GEM).setUnlocalizedName("gemSword").setCreativeTab(CreativeTabs.tabCombat);
+	public static Item gemPick = new ItemPickaxe(183, EnumToolMaterial.GEM).setUnlocalizedName("gemPick").setCreativeTab(CreativeTabs.tabTools);
+	public static Item gemAxe = new ItemAxe(184, EnumToolMaterial.GEM).setUnlocalizedName("gemAxe").setCreativeTab(CreativeTabs.tabTools);
+	public static Item gemSpade = new ItemSpade(185, EnumToolMaterial.GEM).setUnlocalizedName("gemSpade").setCreativeTab(CreativeTabs.tabTools);
+	public static Item gemHoe = new ItemHoe(186, EnumToolMaterial.GEM).setUnlocalizedName("gemHoe").setCreativeTab(CreativeTabs.tabTools);
+	
+	public static Block ingotOre = new Block(187, Material.rock).setCreativeTab(CreativeTabs.tabBlock).setUnlocalizedName("ingotOre");
+	public static Item ingotIngot = new Item(188).setUnlocalizedName("ingotIngot").setCreativeTab(CreativeTabs.tabMaterials);
+	public static Item ingotSword = new ItemSword(189, EnumToolMaterial.IRON).setUnlocalizedName("ingotSword").setCreativeTab(CreativeTabs.tabCombat);
+	public static Item ingotPick = new ItemPickaxe(190, EnumToolMaterial.IRON).setUnlocalizedName("ingotPick").setCreativeTab(CreativeTabs.tabTools);
+	public static Item ingotAxe = new ItemAxe(191, EnumToolMaterial.IRON).setUnlocalizedName("ingotAxe").setCreativeTab(CreativeTabs.tabTools);
+	public static Item ingotSpade = new ItemSpade(192, EnumToolMaterial.IRON).setUnlocalizedName("ingotSpade").setCreativeTab(CreativeTabs.tabTools);
+	public static Item ingotHoe = new ItemHoe(193, EnumToolMaterial.IRON).setUnlocalizedName("ingotHoe").setCreativeTab(CreativeTabs.tabTools);
+	public static Item gemHelm = new ItemArmor(194, EnumArmorMaterial.GEM, 6, 0).setUnlocalizedName("gemHelm").setCreativeTab(CreativeTabs.tabCombat);
+	public static Item gemChestplate = new ItemArmor(195, EnumArmorMaterial.GEM, 6, 1).setUnlocalizedName("gemChestplate").setCreativeTab(CreativeTabs.tabCombat);
+	public static Item gemLeggings = new ItemArmor(196, EnumArmorMaterial.GEM, 6, 2).setUnlocalizedName("gemLeggings").setCreativeTab(CreativeTabs.tabCombat);
+	public static Item gemBoots = new ItemArmor(197, EnumArmorMaterial.GEM, 6, 3).setUnlocalizedName("gemBoots").setCreativeTab(CreativeTabs.tabCombat);
+	
+	@Override
+	public String getVersion() {
+		return("1.0");
+	}
+
+	@Override
+	public void load() {
+		ModLoader.registerBlock(gemOre);
+		ModLoader.registerBlock(ingotOre);
+		
+		ModLoader.addName(gemOre, "Gem Ore");
+		ModLoader.addName(ingotOre, "Ingot Ore");
+		ModLoader.addName(gemGem, "Gem Gem");
+		ModLoader.addName(gemPick, "Gem Pickaxe");
+		ModLoader.addName(gemSword, "Gem Sword");
+		ModLoader.addName(gemAxe, "Gem Axe");
+		ModLoader.addName(gemSpade, "Gem Shovel");
+		ModLoader.addName(gemHoe, "Gem Hoe");
+		ModLoader.addName(ingotIngot, "Ingot Ingot");
+		ModLoader.addName(ingotPick, "Ingot Pickaxe");
+		ModLoader.addName(ingotSword, "Ingot Sword");
+		ModLoader.addName(ingotAxe, "Ingot Axe");
+		ModLoader.addName(ingotSpade, "Ingot Shovel");
+		ModLoader.addName(ingotHoe, "Ingot Hoe");
+		
+		ModLoader.addRecipe(new ItemStack(gemPick, 1), new Object[]{"ggg", " s ", " s ", 'g', gemGem, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(gemSword, 1), new Object[]{" g ", " g ", " s ", 'g', gemGem, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(gemSpade, 1), new Object[]{" g ", " s ", " s ", 'g', gemGem, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(gemAxe, 1), new Object[]{"gg ", "gs ", " s ", 'g', gemGem, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(gemHoe, 1), new Object[]{"gg ", " s ", " s ", 'g', gemGem, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(ingotPick, 1), new Object[]{"iii", " s ", " s ", 'i', ingotIngot, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(ingotSword, 1), new Object[]{" i ", " i ", " s ", 'i', ingotIngot, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(ingotSpade, 1), new Object[]{" i ", " s ", " s ", 'i', ingotIngot, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(ingotAxe, 1), new Object[]{"ii ", "is ", " s ", 'i', ingotIngot, 's', Item.stick});
+		ModLoader.addRecipe(new ItemStack(ingotHoe, 1), new Object[]{"ii ", " s ", " s ", 'i', ingotIngot, 's', Item.stick});
+		
+		ModLoader.addSmelting(ingotOre.blockID, new ItemStack(ingotIngot, 1), 5.0f);
+		
+	}
+
+}

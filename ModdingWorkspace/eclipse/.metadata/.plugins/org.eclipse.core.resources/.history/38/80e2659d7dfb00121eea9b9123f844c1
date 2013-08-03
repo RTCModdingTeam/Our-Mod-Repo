@@ -1,0 +1,11 @@
+package net.minecraft.src;
+
+import java.util.List;
+
+public class BlockAnvilWood extends BlockAnvil {
+
+	protected BlockAnvilWood(int par1) {
+		super(par1);
+	}
+   
+}

@@ -1,0 +1,24 @@
+package net.minecraft.src;
+
+public class mod_Test extends BaseMod {
+	
+	public static Block trapdoorIron = new BlockIronTrapDoor(180, Material.iron).setCreativeTab(CreativeTabs.tabRedstone).setUnlocalizedName("trapdoorIron");
+	public static Block woodenAnvil = new BlockAnvilWood(180).setCreativeTab(CreativeTabs.tabDecorations).setUnlocalizedName("anvilWood");
+	
+	@Override
+	public String getVersion() {
+		return("1.0");
+	}
+
+	@Override
+	public void load() {
+		ModLoader.registerBlock(trapdoorIron);
+		ModLoader.registerBlock(woodenAnvil);
+		
+		ModLoader.addName(trapdoorIron, "Iron Trapdoor");
+		ModLoader.addName(woodenAnvil, "Wooden Anvil");
+		
+		ModLoader.addRecipe(new ItemStack(trapdoorIron, 1), new Object[]{"   ", "iii", "iii", 'i', Item.ingotIron});
+		ModLoader.addRecipe(new ItemStack(woodenAnvil, 1), new Object[]{"ppp", " s ", "sss", 'p', Block.planks, 's', Block.woodSingleSlab});
+	}
+}

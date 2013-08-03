@@ -1,0 +1,30 @@
+package net.minecraft.src;
+
+public class mod_Test extends BaseMod {
+	
+	public static Block gemOre = new NewOre(180, Material.rock).setCreativeTab(CreativeTabs.tabBlock).setUnlocalizedName("myBlock");
+	public static Item gemGem = new Item(181).setUnlocalizedName("gemGem").setCreativeTab(CreativeTabs.tabMaterials);
+	public static Item gemSword = new ItemSword(182, EnumToolMaterial.EMERALD).setUnlocalizedName("gemPick").setCreativeTab(CreativeTabs.tabTools);
+	public static Item gemPick = new ItemPickaxe(183, EnumToolMaterial.EMERALD).setUnlocalizedName("gemSword").setCreativeTab(CreativeTabs.tabCombat);
+	public static Item gemAxe = new ItemAxe(184, EnumToolMaterial.EMERALD).setUnlocalizedName("gemAxe").setCreativeTab(CreativeTabs.tabTools);
+	public static Item gemSpade = new ItemSpade(185, EnumToolMaterial.EMERALD).setUnlocalizedName("gemSpade").setCreativeTab(CreativeTabs.tabTools);
+	public static Item gemHoe = new ItemHoe(186, EnumToolMaterial.EMERALD).setUnlocalizedName("gemHoe").setCreativeTab(CreativeTabs.tabTools);
+	
+	@Override
+	public String getVersion() {
+		return("1.0");
+	}
+
+	@Override
+	public void load() {
+		ModLoader.registerBlock(gemOre);
+		ModLoader.addName(gemOre, "Gem Ore");
+		ModLoader.addName(gemGem, "Gem Gem");
+		ModLoader.addName(gemPick, "Gem Pickaxe");
+		ModLoader.addName(gemSword, "Gem Sword");
+		ModLoader.addName(gemAxe, "Gem Axe");
+		ModLoader.addName(gemSpade, "Gem Shovel");
+		ModLoader.addName(gemHoe, "Gem Hoe");
+	}
+
+}
